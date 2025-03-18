@@ -1,0 +1,16 @@
+[
+    {
+        "title": "my futur dream",
+        "author": "Shaheena Nazeer",
+        "year": "2025",
+        "genre": "Motivational",
+        "read": true
+    },
+    {
+        "title": "My story",
+        "author": "Shaheena Nazeer",
+        "year": "2025",
+        "genre": "story",
+        "read": true
+    }
+]
